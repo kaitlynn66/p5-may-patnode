@@ -28,7 +28,7 @@ export const siteConfig = {
     {
       label: "A5",
       href: "/a5",
-    }
+    },
   ],
   navMenuItems: [
     {
